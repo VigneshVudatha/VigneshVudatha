@@ -79,6 +79,11 @@ A task management application for organizing daily tasks.
 
 
 
+
+
+
+
+
 <h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
@@ -96,3 +101,90 @@ A task management application for organizing daily tasks.
 <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
 
 </p>
+
+
+
+
+
+<h2 align="center">🚀 Current Mission</h2>
+
+<div align="center">
+
+| 🎯 Domain | 📈 Progress |
+|-----------|-------------|
+| 🐧 Linux | ████████░░ 80% |
+| ⚛️ React | ████░░░░░░ 40% |
+| 🐳 Docker | ██████░░░░ 60% |
+| ☸️ Kubernetes | ███░░░░░░░ 30% |
+| ☁️ AWS | ████░░░░░░ 40% |
+| 🚀 DevOps | █████░░░░░ 50% |
+| 🤖 Agentic AI | ██████░░░░ 60% |
+
+</div>
+
+
+
+
+
+
+<h2 align="center">⚡ Currently Mastering</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🐧_Linux-Mastering-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️_AWS-In_Progress-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐳_Docker-Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☸️_Kubernetes-Learning-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚛️_React-Building-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_Agentic_AI-Exploring-purple?style=for-the-badge"/>
+
+</p>
+
+
+
+
+
+
+<h2 align="center">💻 Terminal Status</h2>
+
+```bash
+$ whoami
+Vignesh Vudatha
+
+$ current_mission
+
+✔ Master Linux
+✔ Become a DevOps Engineer
+✔ Build Production Full Stack Apps
+✔ Learn AWS Cloud
+✔ Explore Agentic AI
+✔ Contribute to Open Source
+
+Status: ███████░░░ 70%
+```
+
+
+
+
+
+
+
+
+
+<h2 align="center">🧭 Learning Roadmap</h2>
+
+```text
+🐧 Linux        ██████████░░ 85%
+
+🐳 Docker       ███████░░░░░ 60%
+
+☸ Kubernetes   ████░░░░░░░░ 35%
+
+☁ AWS          █████░░░░░░░ 45%
+
+⚛ React        ██████░░░░░░ 55%
+
+🚀 DevOps       ███████░░░░░ 65%
+
+🤖 Agentic AI   ██████░░░░░░ 55%
+```
