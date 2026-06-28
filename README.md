@@ -54,19 +54,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 Lost & Found Management System
-A web application that helps users report, search, and recover lost items.
-
-**Tech Stack:** HTML, CSS, JavaScript, Firebase, Google Maps API
-
----
-
-### ⏰ Task Reminder
-A task management application that helps users organize and track their daily tasks efficiently.
-
-**Tech Stack:** HTML, CSS, JavaScript
 
 
 ---
