@@ -18,7 +18,7 @@
 
 
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@
 
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -41,9 +41,8 @@
 </p>
 
 
----
 
----
+
 
 ## 🔥 GitHub Streak
 
@@ -52,11 +51,9 @@
 </p>
 
 
----
 
 
 
----
 
 ## 🚀 Featured Projects
 
@@ -125,8 +122,6 @@ A task management application for organizing daily tasks.
 
 
 
-
----
 
 ## 📈 Contribution Graph
 
