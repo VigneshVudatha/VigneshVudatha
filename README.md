@@ -122,17 +122,6 @@ A task management application for organizing daily tasks.
 
 
 
-<div align="center">
-
-## 💭 Developer Philosophy
-
-> *"First, solve the problem. Then, write the code."*  
-> **— John Johnson**
-
-</div>
-
-
-
 
 
 
@@ -148,11 +137,5 @@ A task management application for organizing daily tasks.
 
 
 
----
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VigneshVudatha&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
 
