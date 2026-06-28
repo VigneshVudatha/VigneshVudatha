@@ -1,14 +1,20 @@
-# Hi 👋, I'm Vignesh Vudatha
+<h1 align="center">
+Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
+</h1>
 
-### 🚀 Full Stack Developer • DevOps Engineer in Progress • AI Enthusiast
+<h3 align="center">
+🚀 Building Scalable Web Apps • ☁️ Learning DevOps • 🤖 Exploring AI
+</h3>
 
-🎓 B.Tech CSE Student (2028)
+<p align="center">
+🎓 B.Tech CSE '28 • 💻 Full Stack Developer • 🌍 India
+</p>
 
-💡 Passionate about building scalable web applications, cloud-native systems, and AI-powered solutions.
-
-🌱 Currently mastering Full Stack Development, DevOps, Cloud Computing, and Agentic AI.
-
-🎯 Goal: Build impactful products and become a Software Engineer at a top global tech company.
+<p align="center">
+✨ Turning ideas into products.<br>
+🔥 Learning every day.<br>
+🚀 Building for tomorrow.
+</p>. 
 
 <h1 align="center">Hi 👋, I'm Vignesh Vudatha</h1>
 
