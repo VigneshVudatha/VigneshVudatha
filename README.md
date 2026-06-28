@@ -4,10 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DevOps+Learner;AI+%26+Agentic+AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
+--- 
+
 <h1 align="center">
 Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
 </h1>
-
+--- 
 <h3 align="center">
 🚀 Building Scalable Web Apps • ☁️ Learning DevOps • 🤖 Exploring AI
 </h3>
@@ -20,7 +22,7 @@ Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
  📍 ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY 
 </p>
 
-
+---
 
 
 
