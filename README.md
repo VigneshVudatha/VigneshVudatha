@@ -104,20 +104,6 @@ A task management application for organizing daily tasks.
 
 
 
-<h2 align="center">⚡ Currently Mastering</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🐧_Linux-Mastering-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☁️_AWS-In_Progress-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐳_Docker-Learning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☸️_Kubernetes-Learning-326CE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚛️_React-Building-61DAFB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_Agentic_AI-Exploring-purple?style=for-the-badge"/>
-
-</p>
-
-
 
 
 
