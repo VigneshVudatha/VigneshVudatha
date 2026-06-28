@@ -73,3 +73,26 @@ A web application that helps users report and recover lost items.
 A task management application for organizing daily tasks.
 
 **Tech Stack:** HTML • CSS • JavaScript
+
+
+
+
+
+
+<h2 align="center">🌱 Currently Exploring</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,react,nodejs,firebase,git,github,vscode&perline=5" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Expert%20Journey-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DevOps-Learning-0A66C2?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/AI-Agentic%20AI-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+</p>
