@@ -16,6 +16,10 @@ Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
 🎓 B.Tech CSE '28 • 💻 Full Stack Developer • 🌍 India
 </p>
 
+<p align="center">
+ 📍 ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY 
+</p>
+
 
 
 
