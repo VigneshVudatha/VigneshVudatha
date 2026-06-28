@@ -54,22 +54,47 @@
 
 
 
-
 ## 🚀 Featured Projects
 
-### 🔍 [Lost & Found Management System](https://github.com/VigneshVudatha/lost-and-found)
+<table>
+<tr>
 
-A web application that helps users report and recover lost items.
+<td width="50%">
 
-**Tech Stack:** HTML • CSS • JavaScript • Firebase • Google Maps API
+### 🔍 Lost & Found Management System
 
----
+📌 Smart web application for reporting and recovering lost items.
 
-### ⏰ [Task Reminder](https://github.com/VigneshVudatha/TaskReminder_v1)
+🛠 **Tech**
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- Google Maps API
 
-A task management application for organizing daily tasks.
+🔗 **Repository**
+https://github.com/VigneshVudatha/lost-and-found
 
-**Tech Stack:** HTML • CSS • JavaScript
+</td>
+
+<td width="50%">
+
+### ⏰ Task Reminder
+
+📌 Organize daily tasks with a clean and simple interface.
+
+🛠 **Tech**
+- HTML
+- CSS
+- JavaScript
+
+🔗 **Repository**
+https://github.com/VigneshVudatha/TaskReminder_v1
+
+</td>
+
+</tr>
+</table>
 
 
 
