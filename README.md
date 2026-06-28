@@ -68,3 +68,21 @@ A task management application that helps users organize and track their daily ta
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 [Lost & Found Management System](https://github.com/VigneshVudatha/lost-and-found)
+
+A web application that helps users report and recover lost items.
+
+**Tech Stack:** HTML • CSS • JavaScript • Firebase • Google Maps API
+
+---
+
+### ⏰ [Task Reminder](https://github.com/VigneshVudatha/TaskReminder_v1)
+
+A task management application for organizing daily tasks.
+
+**Tech Stack:** HTML • CSS • JavaScript
