@@ -122,6 +122,15 @@ A task management application for organizing daily tasks.
 
 
 
+<div align="center">
+
+## 💭 Developer Philosophy
+
+> *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**
+
+</div>
+
 
 
 
