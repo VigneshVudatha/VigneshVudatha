@@ -39,7 +39,7 @@ Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
 </p>
 
 
-
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -51,7 +51,7 @@ Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
 </p>
 
 
-
+---
 
 
 ## 🔥 GitHub Streak
@@ -61,7 +61,7 @@ Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
 </p>
 
 
-
+---
 
 
 ## 🚀 Featured Projects
@@ -110,7 +110,7 @@ https://github.com/VigneshVudatha/TaskReminder_v1
 
 
 
-
+---
 
 
 
@@ -140,7 +140,7 @@ https://github.com/VigneshVudatha/TaskReminder_v1
 
 
 
-
+---
 
 
 
@@ -153,7 +153,7 @@ https://github.com/VigneshVudatha/TaskReminder_v1
 
 
 
-
+---
 
 <h2 align="center">🤝 Let's Connect</h2>
 
