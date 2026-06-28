@@ -145,3 +145,22 @@ https://github.com/VigneshVudatha/TaskReminder_v1
 
 
 
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vignesh-vudatha-875097324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vigneshvudatha7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+⭐ If you like my work, consider following my journey and checking out my repositories.
+</p>
+
+
