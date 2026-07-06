@@ -38,26 +38,13 @@ Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
 
 <div align="center">
 
-> *"Turning ideas into scalable software."*
+# 💜 Vignesh Vudatha
 
-</div>
+### Code • Cloud • Creativity
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=8A2BE2&center=true&width=800&lines=Full+Stack+Developer;Building+Modern+Applications;DevOps+Learner;AI+Explorer;Future+Software+Engineer" />
 
-<div align="center">
-
-# 👋 Welcome to my GitHub
-
-## I'm Vignesh Vudatha
-
-💻 Full Stack Developer
-
-🚀 DevOps Enthusiast
-
-🤖 AI Explorer
-
-🌱 Lifelong Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&pause=1200&color=4F46E5&center=true&width=700&lines=Welcome+to+my+coding+journey;Always+building+something+new;Let's+create+amazing+software!" />
+> *Learning every day. Building for tomorrow.*
 
 </div>
 
