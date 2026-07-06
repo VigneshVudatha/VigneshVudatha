@@ -1,27 +1,4 @@
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DevOps+Learner;AI+%26+Agentic+AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
---- 
-
-<h1 align="center">
-Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
-</h1>
---- 
-<h3 align="center">
-🚀 Building Scalable Web Apps • ☁️ Learning DevOps • 🤖 Exploring AI
-</h3>
-
-<p align="center">
-🎓 B.Tech CSE '28 • 💻 Full Stack Developer • 🌍 India
-</p>
-
-<p align="center">
- 📍 ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY 
-</p>
-
 ---
 
 <div align="center">
@@ -35,18 +12,6 @@ Hi 👋, I'm <span style="color:#00D9FF;">Vignesh Vudatha</span>
 </div>
 
 ---
-
-<div align="center">
-
-# 💜 Vignesh Vudatha
-
-### Code • Cloud • Creativity
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=8A2BE2&center=true&width=800&lines=Full+Stack+Developer;Building+Modern+Applications;DevOps+Learner;AI+Explorer;Future+Software+Engineer" />
-
-> *Learning every day. Building for tomorrow.*
-
-</div>
 
 
 
