@@ -1,21 +1,7 @@
 
----
 
 <div align="center">
 
-# Hi 👋 I'm Vignesh Vudatha
-
-### Full Stack Developer • DevOps Learner • AI Explorer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Learning+DevOps+and+Cloud;Exploring+Artificial+Intelligence;Always+Learning+Something+New" />
-
-</div>
-
----
-
-<div align="center">
-
-# Hi 👋 I'm
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&pause=999999&color=8A2BE2&center=true&vCenter=true&repeat=false&width=700&lines=VIGNESH+VUDATHA" />
 
