@@ -10,15 +10,11 @@
 
 </div>
 
----
-
 <div align="center">
 
 > *Turning ideas into scalable software.*
 
 </div>
-
-
 
 ---
 
