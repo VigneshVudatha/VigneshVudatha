@@ -46,7 +46,22 @@
 
 
 ---
+---
 
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=VigneshVudatha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshVudatha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=VigneshVudatha&theme=tokyonight&hide_border=true"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshVudatha&theme=tokyo-night&hide_border=true&area=true"/>
+
+
+---
 
 ## 🚀 Featured Projects
 
